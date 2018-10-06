@@ -1,6 +1,7 @@
 ## Git Basics
 
-#### Speaker: Chirag Jain
+#### Speaker: Chirag Jain [(@chirag-jn)](https://github.com/chirag-jn)
+#### Volunteers: kanav Bhagat, Suryatej Reddy, Kanika Saini 
 
 ### Resources
 
