@@ -20,7 +20,9 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 
 ### Freshers
 
-**Ambisonic-player by Hack-a-ton - **[Code](https://github.com/LakshyAAAgrawal/Ambisonic-player)
+Note that all the 4 freshers' teams got the same position.
+
+**Ambisonic-player by Hack-a-ton -** [Code](https://github.com/LakshyAAAgrawal/Ambisonic-player)
 
 _Members: Lakshya, Ritwik, Bhavya, Ruhma_
 
@@ -30,13 +32,13 @@ The app takes a youtube link as an input and then plays that song as an
 
  
 
-**SMSSieve by Bob: The Bylders - **[Code](https://github.com/confusement/SMSieve/)
+**SMSSieve by Bob: The Bylders -** [Code](https://github.com/confusement/SMSieve/)
 
 _Members: Naman, Sudhir, Ayush, Anmol_
 
 An Android application that reads the SMS on the phone and filters out meaningful information like promo codes, missed calls etc. 
 
-**Elysian by !Banana - **[Code](https://github.com/singlautsav/chidiya_lets_udd) 
+**Elysian by !Banana -** [Code](https://github.com/singlautsav/chidiya_lets_udd) 
 
 _Members: Utsav, Vasu, Sonali, Isha_
 
@@ -44,7 +46,7 @@ A mobile app that lets you play chidya udd with a more realistic playing experie
 
  
 
-**PasswordBanao by Binary Bombers - **[Code](https://github.com/singlautsav/chidiya_lets_udd)
+**PasswordBanao by Binary Bombers -** [Code](https://github.com/singlautsav/chidiya_lets_udd)
 
 _Members: Diptanshu, Himanshu, Rushil, Abhinay_
 
@@ -53,7 +55,7 @@ Authenticate yourself using a file, like music, text or image, rather than your 
 ### Seniors
 
 
-**Scre{w}ber by Code Slingers - **[Code](https://github.com/harshj94/Screwber) 
+**Scre{w}ber by Code Slingers -** [Code](https://github.com/harshj94/Screwber) 
 
 _Members: Harsh, Ayush, Swagatam, Kanika_
 
