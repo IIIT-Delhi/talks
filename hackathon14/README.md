@@ -10,6 +10,7 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 
 ## Mentors
 - Sharmishtha Gupta
+- Deepak Srivatsav
 
 ## Judges
 - Sharmishtha Gupta
