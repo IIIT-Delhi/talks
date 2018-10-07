@@ -9,11 +9,11 @@ Byld's first hackathon of the (academic) year! Themes: Make a Game, Make Someone
 Participation Stats: 120-130 students attended, 24 teams presented.
 
 ## Mentors
-- Sharmishtha Gupta
+- Sharmistha Gupta
 - Deepak Srivatsav
 
 ## Judges
-- Sharmishtha Gupta
+- Sharmistha Gupta
 - Siddharth Yadav
 - Peeyush Kushwaha
 
@@ -43,7 +43,7 @@ An Android application that reads the SMS on the phone and filters out meaningfu
 
 _Members: Utsav, Vasu, Sonali, Isha_
 
-A mobile app that lets you play chidya udd with a more realistic playing experience than existing apps.
+A mobile app that lets you play chidiya udd with a more realistic playing experience than existing apps.
 
  
 
@@ -80,7 +80,7 @@ Take a photo of you and your friends at your most momentous times together, by a
 
 _Rahul, Setu_
 
-This contraption installed in your paddlock tells you if your door is locked
+This hardware contraption installed in your padlock tells you if your door is locked
  or not. If you are at a far off place and are worried if you locked 
 your door or not, then this might be great for you
 
