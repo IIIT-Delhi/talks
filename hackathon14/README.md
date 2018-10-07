@@ -80,7 +80,7 @@ Take a photo of you and your friends at your most momentous times together, by a
 
 _Rahul, Setu_
 
-This contraption installed in your padlock tells you if your door is locked
+This hardware contraption installed in your padlock tells you if your door is locked
  or not. If you are at a far off place and are worried if you locked 
 your door or not, then this might be great for you
 
