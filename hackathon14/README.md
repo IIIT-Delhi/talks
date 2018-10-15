@@ -18,6 +18,7 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 - Sharmistha Gupta
 - Siddharth Yadav
 - Peeyush Kushwaha
+- Kanav Bhagat
 
 ## Results
 
