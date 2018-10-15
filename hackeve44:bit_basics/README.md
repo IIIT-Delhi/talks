@@ -2,6 +2,7 @@
 
 #### Speaker: Chirag Jain [(@chirag-jn)](https://github.com/chirag-jn)
 #### Volunteers: kanav Bhagat, Suryatej Reddy, Kanika Saini 
+#### Date: 1 October 2018
 
 ### Resources
 
