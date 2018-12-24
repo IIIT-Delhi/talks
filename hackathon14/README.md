@@ -13,6 +13,7 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 - Sharmistha Gupta
 - Deepak Srivatsav
 - Aman Mehra
+- Kanav Bhagat
 
 ## Judges
 - Sharmistha Gupta
