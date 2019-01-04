@@ -3,7 +3,7 @@ type: HackEve
 name: Introduction to JavaScript 
 event-description: Being a ubiquitous language, available on user-end wherever there is a browser, there's a wealth of things that you can do with JavaScript — some of these including making web-apps, animations, games, and more. We'll explore some of these in greater detail in the session. It'll be a hands-on session, so bring your laptops. Session is open to all students, only prerequisite is that you should know some programming language (e.g. Python)
 location: C01
-start-date: DD MONTH YY
+start-date: 2nd Jan 2019
 start-time: 5:45 PM
 speaker: @peey
 duration: "2 Hours"
