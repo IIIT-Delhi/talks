@@ -17,9 +17,7 @@ Maintaining this repo is a bit tedious. Hence, any help would be appreciated.
 
 ### For speakers
 
-Prospective speakers can choose events from ["Issues" marked as "speaker-needed"](https://github.com/IIIT-Delhi/talks/issues?q=is%3Aissue+is%3Aopen+label%3Aspeakers-needed) or you can [propose a new event](https://github.com/IIIT-Delhi/talks/issues/new?assignees=&labels=proposed_events%2C+speakers-needed&template=event-proposal.md&title=).
-
-The speaker is supposed to send a PR to this repo for adding the content for his event. 
+Open a new issue and add the speakers-needed and proposed-events labels, or you an use this handy [shortcut](https://github.com/IIIT-Delhi/talks/issues/new?assignees=&labels=proposed_events%2C+speakers-needed&template=event-proposal.md&title=). Make sure event you're proposing hasn't already been proposed!
 
 ## FAQs
 
@@ -37,16 +35,31 @@ In the issue for the corresponding event, add a comment that you want to volunte
 **After the event:**  
 Having volunteered for the event, you need to add your name in the volunteers sections of the event and send a PR. The byld admin responsible for the event will approve the PR, if your efforts were okay.
 
-
 ## Conventions:
-- Each folder signifies one session
-- Name of the folder represents event name. Example: hackeve40:intro_to_git
-- There must be README.md in each session folder that should contain the following:
-  - Name
-  - Date 
-  - Description
-  - Slides/Material Links
-  - Names of organizers and volunteers / mentors
-  - Any other instructions about uploaded code / material
+
+This is under progress.
+
+- `archive` stores previous info about the talks
+- `current` folder stores events from the current semester
+- each event will have its own folder
+- the name of the folder must be in the following format: `hackeve_011-name_of_the_hackeve`
+- the folder should have one `README.md` file
+- the `README.md`  should have atleast the following meta data in this specific format:
+```
+type: HackEve | HackNight | Hackathon | Colab 
+name:  Event Name
+event-description:
+location:
+start-date: DD MONTH YY
+start-time: HH:MM AM/PM
+speaker: comma seperateted list of GitHub id
+duration: write any details of the event timing here
+volunteers: comma seperateted list of GitHub id
+byld-admin-poc:
+```
+- other suggested contents:
+    - slides: both renders and source(if apply)
+    - code used in the talk
+    - instructions
 
 You're encouraged to put as much as you can on here. This makes the material of the sessions useful for future sessions, reference for the audience and for public information that the club if alive and functioning.
