@@ -8,7 +8,10 @@ start-time: 10 AM
 duration: "30 Hours"
 ---
 
-## Mentors
+
+Slides: [http://bit.ly/byld-hack-15-slides](http://bit.ly/byld-hack-15-slides)
+
+Submitted Projects: [link](https://hackathon-v15.devfolio.co/submissions)
 
 ## Judges
 
