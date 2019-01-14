@@ -18,6 +18,7 @@ Submitted Projects: [link](https://hackathon-v15.devfolio.co/submissions)
 Anushka Bhandari
 Sharmistha Gupta
 Aditya Chetan
+Deepak Srivatsav
 
 ## Mentors
 
