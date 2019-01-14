@@ -15,20 +15,21 @@ Submitted Projects: [link](https://hackathon-v15.devfolio.co/submissions)
 
 ## Judges
 
-Anushka Bhandari
-Sharmistha Gupta
-Aditya Chetan
-Deepak Srivatsav
+Anushka Bhandari  
+Sharmistha Gupta  
+Aditya Chetan  
+Deepak Srivatsav  
 
 ## Mentors
 
-Siddharth Yadav
-Palash Aggarwal
-Rishabh Garg
-Bhumanyoo Varshney
-Shivam Aggarwal
-Dilnawaz
-Aayush Gupta
+Siddharth Yadav  
+Palash Aggarwal  
+Rishabh Garg  
+Bhumanyoo Varshney  
+Shivam Aggarwal  
+Dilnawaz  
+Aayush Gupta  
+Brihi Joshi  
 
 ## Winners
 
