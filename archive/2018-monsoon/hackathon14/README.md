@@ -20,6 +20,9 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 - Siddharth Yadav
 - Peeyush Kushwaha
 
+## Byld Members who Participated and Presented
+
+
 ## Results
 
 ### Freshers
