@@ -1,7 +1,7 @@
 ---
 type: Hackeve 47
 name:  Intro to pygame
-event-description: Taught students about pygame basics, developed flappy bird to give them a sense of how things work
+event-description: This is an introductory session on Pygame which will introduce you to the world of 2D game development at a very basic level. We will use a bunch of python modules to develop a very simple game(Flappy Bird) during the session.
 location: IIITD
 start-date: 22nd January 2019
 start-time: 6:00 pm
@@ -18,3 +18,7 @@ Speaker - Aman Mehra
 Organiser - Aman Mehra, Chirag Jain
 
 Volunteers - Anish Bhardwaj, Aniket Pradhan
+
+Link to slides - https://docs.google.com/presentation/d/1tGvYuvS6ch4pekY9Bp-EkVeEWadg3oUHj69oKNo324I/edit?usp=sharing
+
+Link to code repo - https://github.com/amehra-github/Flappy-Birds
