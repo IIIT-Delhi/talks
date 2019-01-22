@@ -1,5 +1,5 @@
 ---
-type: HackEve 47
+type: HackEve 
 name:  Intro to pygame
 event-description: This is an introductory session on Pygame which will introduce you to the world of 2D game development at a very basic level. We will use a bunch of python modules to develop a very simple game(Flappy Bird) during the session.
 location: IIITD
