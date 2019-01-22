@@ -21,7 +21,10 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 - Peeyush Kushwaha
 
 ## Byld Members who Participated and Presented
-
+- Bhavya Srivastava
+- Raghav Gupta
+- Karan Tandon
+- Shaurya Bagga
 
 ## Results
 
