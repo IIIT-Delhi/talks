@@ -8,7 +8,7 @@ start-time: 6:00 pm
 duration: 1.5 hours
 organisers: amehra-github, chirag-jn
 volunteers: bhardwajanish, Aniket-Pradhan
-byld-admin-poc:
+byld-admin-poc: suryatejreddy
 ---
 
 Taught students about pygame basics, developed flappy bird to give them a sense of how things work
