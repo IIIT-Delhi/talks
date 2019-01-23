@@ -26,6 +26,7 @@ Participation Stats: 120-130 students attended, 24 teams presented.
 - Karan Tandon
 - Shaurya Bagga
 - Tanuj Dabas
+- Aniket Pradhan
 
 ## Results
 
